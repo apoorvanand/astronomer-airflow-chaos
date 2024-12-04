@@ -1,4 +1,4 @@
-# astronomer-airflow-chaos
+# Astronomer-airflow-chaos
 
 To test the resiliency of the Astronomer Airflow platform deployed on Kubernetes, you can employ a combination of chaos engineering techniques and best practices. Here's a comprehensive approach to ensure your Airflow deployment is robust and reliable:
 
